@@ -4,7 +4,7 @@
     @Date: 26-07-2024 
     @Last Modified by: Ayush Prajapati
     @Last Modified time: 26-07-2024 
-    @Title : Python program to get the number of occurrences of specified element in an array
+    @Title: Python program to get the number of occurrences of specified element in an array
     
 '''
 
